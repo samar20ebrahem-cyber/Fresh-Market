@@ -1,6 +1,6 @@
 class ProductsService {
     constructor() {
-        this.jsonUrl = 'products.json'; 
+        this.jsonUrl = './products.json'; 
     }
 
     async getProducts() {
