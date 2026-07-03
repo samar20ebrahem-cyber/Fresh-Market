@@ -1,0 +1,226 @@
+[
+  { "id": 1, "title": "Fresh Red Apples", "price": 2.99, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400" },
+
+  { "id": 2, "title": "Organic Bananas", "price": 1.49, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400" },
+
+  { "id": 3, "title": "Sweet Strawberries", "price": 4.99, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400" },
+
+  { "id": 4, "title": "Fresh Oranges", "price": 1.99, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1547514701-42782101795e?w=400" },
+
+  { "id": 5, "title": "Green Grapes", "price": 3.49, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=400" },
+
+  { "id": 6, "title": "Fresh Mangoes", "price": 5.20, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=400" },
+
+  { "id": 7, "title": "Watermelon Slice", "price": 3.99, "category": "Fruits", "thumbnail": "data:image/jpeg;base64,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" },
+
+  { "id": 8, "title": "Fresh Pineapples", "price": 4.50, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDop3Xew48YOaFp6v0iAy0BvbIzVLt31flQyajAO_UxQ&s=10" },
+
+  { "id": 9, "title": "Sweet Peaches", "price": 2.80, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-qBMUPZpoh7u4PPHUq-QJzkNnfRfI4pB4lHAwdFxDA&s=10" },
+
+  { "id": 10, "title": "Fresh Blueberries", "price": 4.99, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmsk1GqaNnK6N88SYOP72KpScyKfprxqoxKyJETDu_Q&s=10" },
+
+  { "id": 11, "title": "Kiwi Fruit", "price": 3.10, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsI25wz0dV2jA6QLxt6u2Tqd5CciJq3QoaZIxDZ7QAXQ&s=10" },
+
+  { "id": 12, "title": "Red Cherries Pack", "price": 5.99, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1528821128474-27f963b062bf?w=400" },
+
+  { "id": 13, "title": "Organic Avocados", "price": 4.25, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=400" },
+
+  { "id": 14, "title": "Fresh Pomegranates", "price": 3.80, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG6v1fcIWQrxOhHwYq6kTzElNnJpdT37mQ0Os2mxHWg&s=10" },
+
+  { "id": 15, "title": "Sweet Plums", "price": 2.90, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxKVcbOgrgDlkRAFQP7UFcp5Gw6ZD-LAEH3p_YHiZQw&s=10" },
+
+  { "id": 16, "title": "Fresh Pears", "price": 2.40, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzIxhLlKj2YL1G2B-hKWIV1YFuxBQPLR77cJHvffUww&s=10" },
+
+  { "id": 17, "title": "Green Apples Bag", "price": 3.99, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrwdpTJ26caEQ0VqiZ3PCPZIuNI2cMI9QY_8k6_n2fA&s=10" },
+
+  { "id": 18, "title": "Fresh Lemons Pack", "price": 1.50, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1590502593747-42a996133562?w=400" },
+
+  { "id": 19, "title": "Sweet Raspberries", "price": 4.80, "category": "Fruits", "thumbnail": "https://images.unsplash.com/photo-1577069861033-55d04cec4ef5?w=400" },
+
+  { "id": 20, "title": "Fresh Figs Pack", "price": 3.99, "category": "Fruits", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9EVkVlx_A8bW4safEiSDx3Sa6GDNqCas8lCwgVGVG1w&s=10" },
+
+
+
+  { "id": 21, "title": "Fresh Tomatoes", "price": 2.49, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToukILd9xF16vJwjBnVDvl5EeP8EpWKIkWFFLHFpzkrw&s=10" },
+
+  { "id": 22, "title": "Organic Carrots Bag", "price": 1.80, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQc2CwzypZIvOFZl6fFHpccF_eFkdwAok_Sq9acq1qQ&s=10" },
+
+  { "id": 23, "title": "Green Broccoli Head", "price": 2.99, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAlJjUsKY8KRZyTo4DX-GCblPwGiy7jX7EWu2GNFd2hQ&s=10" },
+
+  { "id": 24, "title": "Russet Potatoes Bag", "price": 3.50, "category": "Vegetables", "thumbnail": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400" },
+
+  { "id": 25, "title": "Fresh Cucumbers", "price": 1.20, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHP-ErkjxGAOwwP6Bwn0xJieXBu6rHWYkQs8VaOpKvdA&s=10" },
+
+  { "id": 26, "title": "Red Onions Bag", "price": 2.10, "category": "Vegetables", "thumbnail": "https://images.unsplash.com/photo-1508747703725-719777637510?w=400" },
+
+  { "id": 27, "title": "Organic Spinach Leaves", "price": 2.30, "category": "Vegetables", "thumbnail": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400" },
+
+  { "id": 28, "title": "Colored Bell Peppers", "price": 3.20, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR92mZF3Tr0tnQv0DPz9EFSLSNaHRIHzF-pw0Jh3V8pfg&s=10" },
+
+  { "id": 29, "title": "White Mushrooms Pack", "price": 4.10, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9mX9co6HusRezgCFUqj0pHyQgZruR4SuYJUg0u5mhA&s=10" },
+
+  { "id": 30, "title": "Fresh Garlic Bulbs", "price": 1.50, "category": "Vegetables", "thumbnail": "https://images.unsplash.com/photo-1540148426945-6cf22a6b2383?w=400" },
+
+  { "id": 31, "title": "Organic Zucchini", "price": 1.99, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9HZP688DruE3Panqs8V6r1gNhA7UrLeiGuFLaXn6bg&s=10" },
+
+  { "id": 32, "title": "Sweet Corn Cobs", "price": 2.75, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbhQWX3UxPU0ZVmFZKAczYc2yNTzq5RROUAPlnevAY8w&s=10" },
+
+  { "id": 33, "title": "Fresh Eggplants", "price": 1.85, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXFqHDBzifyEIw6FIZdtq4OWthAFgTIq6Ipe-kMjX5Q&s=10" },
+
+  { "id": 34, "title": "Green Lettuce Head", "price": 1.40, "category": "Vegetables", "thumbnail": "https://images.unsplash.com/photo-1556801712-76c8eb07bbc9?w=400" },
+
+  { "id": 35, "title": "Organic Cauliflower", "price": 3.10, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF03IFoGqvS-3N8ZIglAsK9CLlHErcFLmJz6scfMGfzA&s" },
+
+  { "id": 36, "title": "Fresh Cabbage", "price": 1.60, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZIn5vXOAddPPOx43Vn3FIZ8yuZ8TDzrt6nwl_61wzA&s=10" },
+
+  { "id": 37, "title": "Fresh Asparagus Bunch", "price": 4.50, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVAlWUn4XTO4pujOQxubXWaoqOnjWTGzfqES7P53wcQ&s=10" },
+
+  { "id": 38, "title": "Sweet Potatoes Bag", "price": 2.99, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkO1KaHPSML_qiU3qgPVUHywQgXJYCHYCuiYniRwQbCQ&s=10" },
+
+  { "id": 39, "title": "Green Peas Shucked", "price": 2.20, "category": "Vegetables", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdK8VlBACu1HEejXwV9_iFv0gHdo20kXGr-WVdeV9Kg&s=10" },
+
+  { "id": 40, "title": "Fresh Ginger Root", "price": 1.75, "category": "Vegetables", "thumbnail": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400" },
+
+
+
+  { "id": 41, "title": "Premium Beef Ribeye", "price": 18.99, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNtYE4xkxfx1RRcP4tN0J4FXUcYcrMC48lreEPN_9Jw&s=10" },
+
+  { "id": 42, "title": "Fresh Chicken Breasts", "price": 7.99, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400" },
+
+  { "id": 43, "title": "Ground Beef Lean", "price": 9.50, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2u3b_zJyKUF7Z_A0WhUkMrlJHwshbc_OSLZjON35qUw&s" },
+
+  { "id": 44, "title": "Fresh Salmon Fillet", "price": 14.99, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYEcunc70OUu6Ccl0Jgxb1Pvd72G_pHi-qH1UpnUTfQ&s=10" },
+
+  { "id": 45, "title": "Lamb Chops Fresh", "price": 16.50, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVC-pE0j-bwLCR5lvBl8uvqSGxXOS0esAjgsu1RZo0Q&s=10" },
+
+  { "id": 46, "title": "Whole Chicken Roaster", "price": 11.20, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYyIyn_dcqAjkRgNOWAXQLqPbznFNtJ2hE_ylLTh-fsQ&s=10" },
+
+  { "id": 47, "title": "Fresh Chicken Wings", "price": 5.99, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=400" },
+
+  { "id": 48, "title": "Turkey Breast Sliced", "price": 8.40, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnskYm5aNP4XqcIqtsvgBf7I_LSZkDCcPyOHIBHPqayg&s=10" },
+
+  { "id": 49, "title": "Premium Beef Burger Patties", "price": 10.99, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400" },
+
+  { "id": 50, "title": "Fresh Shrimps Premium", "price": 13.50, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400" },
+
+  { "id": 51, "title": "Beef Stew Meat Cubes", "price": 11.99, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=400" },
+
+  { "id": 52, "title": "Fresh Tuna Steak", "price": 15.20, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?w=400" },
+
+  { "id": 53, "title": "Smoked Turkey Strips", "price": 6.80, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=400" },
+
+  { "id": 54, "title": "Chicken Drumsticks", "price": 4.99, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=400" },
+
+  { "id": 55, "title": "Beef Striploin Steak", "price": 17.50, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400" },
+
+  { "id": 56, "title": "Fresh Sea Bass Fish", "price": 12.99, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SwVYnpF12MkysPIUOVT7Q00YdriY97NXYIJz8FTX_g&s=10" },
+
+  { "id": 57, "title": "Premium Beef Meatballs", "price": 8.99, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=400" },
+
+  { "id": 58, "title": "Chicken Thighs Boneless", "price": 6.50, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=400" },
+
+  { "id": 59, "title": "Beef Kebab Skewers", "price": 12.40, "category": "Meat", "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400" },
+
+  { "id": 60, "title": "Fresh Duck Whole", "price": 19.99, "category": "Meat", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0UMC5aiSyg3Y9Mjm8A7lohepPi0DzNmdDRB4VwikLA&s=10" },
+
+
+
+  { "id": 61, "title": "Fresh Whole Milk 1L", "price": 1.89, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400" },
+
+  { "id": 62, "title": "Organic Large Eggs 12ct", "price": 3.49, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=400" },
+
+  { "id": 63, "title": "Greek Yogurt Plain", "price": 1.25, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400" },
+
+  { "id": 64, "title": "Cheddar Cheese Block", "price": 4.20, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxtwjJpuKVnfFzpVD7iUWDV7t5HGpyZgTJQN_dUD3CQ&s=10" },
+
+  { "id": 65, "title": "Unsalted Butter 250g", "price": 2.75, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=400" },
+
+  { "id": 66, "title": "Mozzarella Shredded", "price": 3.99, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=400" },
+
+  { "id": 67, "title": "Fresh Heavy Cream", "price": 2.50, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9BtZKRMvEQ9evrHCZsFFVLe5gF-qnTJSAtzOgRVyVlQ&s=10" },
+
+  { "id": 68, "title": "Organic White Eggs 30ct", "price": 6.99, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1516448620398-c5f44bf9f441?w=400" },
+
+  { "id": 69, "title": "Feta Cheese Pack", "price": 3.60, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=400" },
+
+  { "id": 70, "title": "Sour Cream Tub", "price": 1.80, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFGTzyPw9vqhIn6maITnFhlU3y3DdEPm3ObnMARwfwQ&s=10" },
+
+  { "id": 71, "title": "Organic Almond Milk", "price": 2.99, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWLa39o4YYgUEixs5b7IVU7lhGSF-BVB-fsWmD8mqNw&s=10" },
+
+  { "id": 72, "title": "Parmesan Cheese Grated", "price": 5.10, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItuJyUn37RIrX36HytYNy1eXODK0MRpbuDkbc4uJIcg&s=10" },
+
+  { "id": 73, "title": "Fresh Cottage Cheese", "price": 2.40, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xarbKy6cP56yMIkFal9LP52PqKi--grR0psCDtg0Aw&s=10" },
+
+  { "id": 74, "title": "Low Fat Yogurt Strawberry", "price": 1.35, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZJfE9ZgNqdjskPWvgOvlAvrqRSNOwHywZYIQEv64fQ&s=10" },
+
+  { "id": 75, "title": "Cream Cheese Spread", "price": 2.85, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9JmcJ2wNyId59hr6dvstoqhY966tMk5O_7qSePtGJA&s=10" },
+
+  { "id": 76, "title": "Salted Butter Sticks", "price": 2.75, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9WlPYhg29tul1SrA__4g6f-FipqRxExs26s19r5jXUQ&s=10" },
+
+  { "id": 77, "title": "Fresh Whipping Cream", "price": 2.90, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9egjUHTDiCHvJpp4ACLGN2y9gih2raVgssArfmazpeg&s=10" },
+
+  { "id": 78, "title": "Quail Eggs Pack 12ct", "price": 4.20, "category": "Dairy & Eggs", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVchhLGA1LuHMNesS-rhqdhFpGinHtfDpz9TseUMb2JQ&s=10" },
+
+  { "id": 79, "title": "Organic Oat Milk 1L", "price": 3.15, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1600718374662-0483d2b9da44?w=400" },
+
+  { "id": 80, "title": "Gouda Cheese Slices", "price": 4.50, "category": "Dairy & Eggs", "thumbnail": "https://images.unsplash.com/photo-1532634922-8fe0b757fb13?w=400" },
+
+
+
+  { "id": 81, "title": "Organic Black Pepper", "price": 1.99, "category": "Spices", "thumbnail": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400" },
+
+  { "id": 82, "title": "Pure Turmeric Powder", "price": 2.50, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NbEp1uzxOBYfQ0dcnLihcrA2ZdlJuCfeKlWzLG9fww&s=10" },
+
+  { "id": 83, "title": "Red Chili Flakes Jar", "price": 1.80, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-sX7O1Amlag454R364BEELC1C6x209NLHZE5k0G_GQ&s=10" },
+
+  { "id": 84, "title": "Ground Cinnamon Powder", "price": 2.20, "category": "Spices", "thumbnail": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=400" },
+
+  { "id": 85, "title": "Organic Cumin Seeds", "price": 2.40, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNZsXrz_4Vx-FbS17MUI_ImTa5GYg1FAnsxhUrY_F3w&s=10" },
+
+  { "id": 86, "title": "Sweet Paprika Powder", "price": 2.65, "category": "Spices", "thumbnail": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=400" },
+
+  { "id": 87, "title": "Organic Ginger Powder", "price": 3.10, "category": "Spices", "thumbnail": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400" },
+
+  { "id": 88, "title": "Curry Powder Mix Premium", "price": 2.90, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3hX-2iPpwbaIlrizEu4z2gke3b9WcySeJL5g0-5qDw&s=10" },
+
+  { "id": 89, "title": "Himalayan Pink Salt Grinder", "price": 3.50, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3e9-Ch1FCZoaSIfUJBIVvPG5e5pVjiT6GQ9lx3o53g&s=10" },
+
+  { "id": 90, "title": "Garlic Powder Premium", "price": 2.10, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g1qpq1yo4kYbMUQbgADWMNDfK9-G95FeCdVkSMN4pQ&s=10" },
+
+  { "id": 91, "title": "Onion Powder Premium", "price": 2.10, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1yuqGKGaa1j7oMin8rQRTr8yOXQdDULxEptk_7bh7Lw&s=10" },
+
+  { "id": 92, "title": "Whole Cardamom Pods", "price": 6.50, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRegHyrlHMex0MNgnTVhvEN4X9qtC8R2ONTdBe0-1-q1w&s=10" },
+
+  { "id": 93, "title": "Dried Oregano Leaves", "price": 1.70, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRu9QkBZGHJ_4YM59Yc4ppvr7ZomwlHoMnWp1WFGNflA&s=10" },
+
+  { "id": 94, "title": "Ground Nutmeg Powder", "price": 3.40, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesGfYHLh1PMweYQJCd7cOvjdw9uVjx-wz3SMAI0QaZA&s=10" },
+
+  { "id": 95, "title": "Cloves Whole Premium", "price": 4.10, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lMApx9x33RX3plcZwzycjJn6CfesnkDQ97zzaZBnCQ&s=10" },
+
+  { "id": 96, "title": "Cayenne Pepper Powder", "price": 2.30, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafs_zScXDDCiZ-mkNeUajPlfsebFkNjd5R78jtm5AOw&s=10" },
+
+  { "id": 97, "title": "Saffron Threads Luxury", "price": 14.99, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0Eqh8-Jtll3r6G79Vrijl6qPQzckdAOimv8M4vSoEA&s" },
+
+    { "id": 98, "title": "Dried Thyme Leaves Jar", "price": 1.95, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5R14j6tC4ix9q3vpU_OsoFwz7VGvTwOVybXzNGnPD9w&s=10" },
+
+  { "id": 99, "title": "Rosemary Leaves Whole", "price": 1.85, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmwJNoh2ROcXP_pyHcoSUgaaiR9ypU2s_IpkKSKzQeA&s=10" },
+
+  { "id": 100, "title": "Coriander Powder Premium", "price": 2.15, "category": "Spices", "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgPaVm90HoxjdS3IuX9o6qgUlQXEH5MYPSeP4VJD1rQ&s" },
+
+  { "id": 101, "title": "Fresh French Baguette", "price": 2.20, "category": "Bakery", "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400" },
+  { "id": 102, "title": "Whole Wheat Bread Sliced", "price": 2.99, "category": "Bakery", "thumbnail": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=400" },
+  { "id": 103, "title": "Butter Croissants Pack 4ct", "price": 4.50, "category": "Bakery", "thumbnail": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400" },
+  { "id": 104, "title": "Chocolate Chip Muffins", "price": 3.80, "category": "Bakery", "thumbnail": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?w=400" },
+  { "id": 105, "title": "Organic Burger Buns 6ct", "price": 2.50, "category": "Bakery", "thumbnail": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400" },
+  { "id": 106, "title": "Orange Juice 100% Pure 1L", "price": 3.49, "category": "Drinks", "thumbnail": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400" },
+  { "id": 107, "title": "Premium Arabica Coffee Beans", "price": 8.99, "category": "Drinks", "thumbnail": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400" },
+  { "id": 108, "title": "Organic Green Tea Bags 20ct", "price": 2.75, "category": "Drinks", "thumbnail": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400" },
+  { "id": 109, "title": "Sparkling Mineral Water 1.5L", "price": 1.50, "category": "Drinks", "thumbnail": "https://images.unsplash.com/photo-1608885898957-a599fb18de36?w=400" },
+  { "id": 110, "title": "Dark Chocolate Cocoa Mix", "price": 4.20, "category": "Drinks", "thumbnail": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=400" },
+
+  { "id": 111, "title": "Organic Basmati Rice 1kg", "price": 4.99, "category": "Pantry", "thumbnail": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400" },
+  { "id": 112, "title": "Extra Virgin Olive Oil 500ml", "price": 9.50, "category": "Pantry", "thumbnail": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400" },
+  { "id": 113, "title": "Spaghetti Pasta Premium", "price": 1.25, "category": "Pantry", "thumbnail": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=400" },
+  { "id": 114, "title": "Canned Tomato Paste Pack", "price": 1.80, "category": "Pantry", "thumbnail": "https://images.unsplash.com/photo-1534482421-64566f976cfa?w=400" },
+  { "id": 115, "title": "Organic Honey Pure Jar", "price": 6.40, "category": "Pantry", "thumbnail": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400" }
+]
